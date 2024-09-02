@@ -1,5 +1,5 @@
 Financial Inclusion in Africa
-This project aims to predict the likelihood of a person having a bank account or not (Yes = 1, No = 0) based on demographic and financial service data. The model is trained on 70% of the data and tested on the remaining 30%, covering four East African countries: Kenya, Rwanda, Tanzania, and Uganda.
+This project aims to predict the likelihood of a person having a bank account or not based on demographic and financial service data. The model is trained on 70% of the data and tested on the remaining 30%, covering four East African countries: Kenya, Rwanda, Tanzania, and Uganda.
 
 Data Description
 The primary dataset includes demographic information and financial service usage for approximately 33,600 individuals across East Africa. This data was extracted from various Finscope surveys conducted between 2016 and 2018.
