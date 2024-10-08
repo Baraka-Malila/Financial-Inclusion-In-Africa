@@ -1,4 +1,5 @@
 Financial Inclusion in Africa
+
 Project Overview
 The Financial Inclusion in Africa project seeks to predict the likelihood of an individual possessing a bank account based on various demographic and financial service data. This analysis focuses on enhancing understanding of financial accessibility in four East African countries: Kenya, Rwanda, Tanzania, and Uganda.
 
